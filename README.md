@@ -1,1 +1,1 @@
-# Tesseract-Mongolian
+# Tesseract-Mongolian - iOS
