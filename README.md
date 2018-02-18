@@ -1,4 +1,4 @@
-# Tesseract-Mongolian - iOS
+# Tesseract Mongolian Training
 This repo provides mongolian cyrillic traineddata built from source using, 
 * Tesseract 3.03-rc1 ([Homepage](https://www.google.com))
 * Leptonica 1.71 ([Homepage](http://www.leptonica.com/))
