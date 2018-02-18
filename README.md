@@ -4,7 +4,7 @@ This repo provides mongolian cyrillic traineddata built from source using,
 * Leptonica 1.71 ([Homepage](http://www.leptonica.com/))
 
 ## Purpose
-The purpose of spending time and efforts in training mongolian cyrillic in Tesseract v3.03 is to use it in iOS 11 and xcode9. And also, it crashes with wierd error in the iOS11, 
+The purpose of spending time and efforts in training mongolian cyrillic in Tesseract v3.03 is to use it in iOS 11 and xcode9. And also, to avoid crashes with wierd error in the iOS11, due to mismatch between traineddata and tesseract engine
 > actual_tessdata_num_entries_ <= TESSDATA_NUM_ENTRIES:Error:Assert failed:in file ../../ccutil/tessdatamanager.cpp, line 53
 
 ## Training Tesseract
