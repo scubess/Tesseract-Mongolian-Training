@@ -1,6 +1,6 @@
 # Tesseract Mongolian Training
 This repo provides mongolian cyrillic traineddata built from source using, 
-* Tesseract 3.03-rc1 ([Homepage](https://www.google.com))
+* Tesseract 3.03-rc1 ([Homepage](https://github.com/tesseract-ocr/tesseract/releases))
 * Leptonica 1.71 ([Homepage](http://www.leptonica.com/))
 
 ## Purpose
